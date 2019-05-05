@@ -1,2 +1,0 @@
-# PocztaKsiazkowa
-moje testerskie portfolio
